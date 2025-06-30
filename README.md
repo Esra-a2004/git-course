@@ -1,3 +1,3 @@
 # git-course
 frist time
-##project notes
+## project notes
